@@ -1,2 +1,8 @@
 This is a.txt
 commit C1
+
+Edit at branch B1
+commit C4
+
+Edit at branch B3 (through github)
+commit C6
